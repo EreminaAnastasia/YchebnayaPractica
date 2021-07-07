@@ -1,0 +1,16 @@
+:root{
+    --header_color: rgb(31, 200, 234);
+    --header_logo_color: rgb(19, 73, 107);
+    --header_color_transition: rgba(31, 200, 234, 0.8);
+    --nav_links_color: rgb(145, 145, 145);
+    --nav_links_active_color: #faff;
+
+    --nav_dropdown_menu: rgba(20,99,149,1);
+    --nav_dropdown_menu_border: rgba(20,99,149,0.5);
+
+    --main_block_color: rgb(255, 255, 255);
+    --general_text_color: black;
+    --main_title_color: rgb(20, 99, 149);
+    --products_block_color: #f0f8ff;
+
+}
